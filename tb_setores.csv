@@ -1,0 +1,5 @@
+"id_setor","nome_setor","custo_kwh"
+"1","Producao","0.75"
+"2","Escritorio","0.60"
+"3","Deposito","0.65"
+"4","Refeitorio","0.55"
