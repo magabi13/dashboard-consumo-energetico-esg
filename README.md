@@ -11,7 +11,7 @@ Este repositório contém uma solução para monitoramento de consumo de energia
 * `analise_energia.py`: Script em Python para processamento de dados e análise complementar.
 * `tb_leituras.csv`: Base de dados contendo os registros diários de consumo por setor.
 * `tb_setores.csv`: Tabela com o cadastro dos setores operacionais e suas respectivas tarifas de custo por kWh.
-
+* `excel.xlsx`: Planilha do Excel com a organização e consolidação inicial dos dados.
 ---
 
 ## 💡 Funcionalidades do Dashboard
